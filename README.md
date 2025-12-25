@@ -254,6 +254,11 @@ Please submit pull requests with clear descriptions.
 Licensed under the **Apache License 2.0**.
 You are free to use, modify, and distribute with attribution.
 
+Open Research Notice
+This project is released under the Apache 2.0 License.
+Commercial use, academic reuse, and funded research are permitted with attribution.
+The original author assumes no liability for misuse
+
 ---
 
 ## ⚠️ Disclaimer
