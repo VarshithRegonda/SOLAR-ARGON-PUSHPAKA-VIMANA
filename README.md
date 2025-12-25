@@ -1,7 +1,7 @@
 # 🛸 PUSHPAKA VIMANA: Solar-Argon Micro-UAV Engineering Project
 
 **Scale:** 1:10 Micro-Prototype  
-**Build Timeline:** 60 Days  
+**Build Timeline:** Target ~60 Days (may vary based on iteration & testing)
 **Lead Inventor:** Varshith Regonda  
 **License:** Apache 2.0  
 **Status:** Engineering Prototype (Open Research)
